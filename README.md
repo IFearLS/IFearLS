@@ -8,7 +8,6 @@
 **Skills:**  
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 <code><img height="35" src="https://icons-for-free.com/download-icon-development+logo+mysql+icon-1320184807686758112_512.png"></code>
 <code><img height="35" src="https://img.icons8.com/color/480/mongodb.png"></code>
