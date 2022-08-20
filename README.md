@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=IFearLS)
 
-<h2>It's me, @Fear!</h2>
+<h2>It's me, @Aspect!</h2>
 <p><em>a Self-taught learning Full Stack Developer</br>
 </em></p>
 
@@ -19,5 +19,5 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 **GitHub Stats:**
 
-![Fear' GitHub stats](https://github-readme-stats.vercel.app/api?username=IFearLS&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IFearLS&theme=tokyonight)
+![Aspect's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhoIsAspect&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhoIsAspect&theme=tokyonight)
